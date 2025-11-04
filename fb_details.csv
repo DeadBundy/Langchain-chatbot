@@ -1,0 +1,169 @@
+Floor,Name ,Cabin
+S-001,Prof. Umesh Nanaware,1
+S-001,Prof. Savitri Chougule,2
+S-001,Prof. Supriya Mandhare,3
+S-001,Prof. Mayuresh Gulame,4
+N-003,Dr. Reena Gunjan,N003
+S-211,Dr. Nandkishor Karlekar,A (Right First)
+S-211,Prof. Nilesh Thorat,B (Right Second)
+S-211, Prof. Pratiksha Malvathkar,C (Right Third)
+S-211,Prof. Arati Pimpalkar,D (Right Forth)
+S-211,Prof. Kanchan Wankhade,E (Left Forth)
+S-211,Prof. Priya Khune,F (Left Third)
+S-211,Dr. Salesh Saudagar,G (Left Second)
+S-211,Prof. Avinash Utikar,H (Left First)
+S-309 ,Prof. Sushma Mehetre,A (Right First)
+S-309 ,Dr. Sangita Patil,B (Right Second)
+S-309 ,Prof. Mohini Kumbhar,C (Right Third)
+S-309 ,Dr. Chandrashekhar Goswami,D - Corner
+S-309 ,Dr. Rohit Pachor,E- Front
+S-309 ,Dr. Saiprasad Potraju,F- Front
+S-309 ,Prof. Babeetta Bbhagat,G- Front
+S-309 ,Dr. Sunita Parinam,H- Front
+S-309 ,Dr.Aaditya Pai H,I- Corner
+S-309 ,Dr. Arvind Jagtap,J- Side
+S-309 ,Prof. Jyoti Ghavane,K- Side
+S-309 ,Dr. Atul Thakare,L- Corner
+S-309 ,Prof. Shubhra Mathur,M-Left Third
+S-309 ,Dr. Ranjana Kale,N-Left Second
+S-309 ,Prof. Disha Gabane,O-Left First
+S-402,Prof. Trupti Kudale,1
+S-402,Prof. Priynaka Gaikwad,2
+S-402,Dr. Rajani Sangappa Sajjan,3
+S-402,Prof. Pooja Oza,4
+S-402,Prof. Deepa Mishra,5
+S-402,Prof. Neha Vinod Chaube,6
+S-411,Prof. Vilas Khedekar,A (Right First)
+S-411,Dr. Nitin S. More,B (Right Second)
+S-411,Prof. Bhagyashree Shendkar,C (Right Third)
+S-411,Prof. Sachin Jagdale,D (Right Forth)
+S-411,Prof. Vaibhav Sawalkar,E (Left Forth)
+S-411,Dr. Anupama Budhewar,F (Left Third)
+S-411,Prof. Yuvraj Nikam,G (Left Second)
+S-411,Dr. Dhanraj Dhotre,H (Left First)
+S-415,Prof. Prashant M Yelmar,A (Right First)
+S-415,Prof. Kiran Shinde,B (Right Second)
+S-415,Dr. Reena Pagare,C (Right Third)
+S-415,Dr. Nilima Kulkarni,D (Right Forth)
+S-415,Dr. Nagesh Jadhav,E (Left Forth)
+S-415,Prof. Gurunath Waghale,F (Left Third)
+S-415,Prof. Suresh Kapare,G (Left Second)
+S-415,Reserved For PRO VC PA,H (Left First)
+S-502,Prof. Uday Mande,1
+S-502,Prof. Rahul Bembade,2
+S-502,Prof. Viresh Vanarote,3
+S-502,Prof. Pooja Kadam,4
+S-502,Prof. Aman Kamble,5
+S-502,Prof. Tejaswini Bhosale,6
+S-504,Prof. Pankaj Chandre,1
+S-504,Prof. Rahul More,2
+S-504,Dr. Pathan Mohd. Shafi,3
+S-504,Prof. Ravirai Choudhari,4
+S-504,Prof. Swapnil Patil,5
+S-504,Prof. Madhukar Nimbalkar,6
+S-504,Prof. Moushmee Kuri,7
+S-504,Prof. Viddulata Patil,8
+S-511,Prof. Vrushali Kondhalkar,A (Right First)
+S-511,Prof. Pratik Kamble,B (Right Second)
+S-511,Reserved,C (Right Third)
+S-511,Prof. Rinku Badgujar,D (Right Forth)
+S-511,Prof. Harshad Lokhande,E (Left Forth)
+S-511,Prof. Chaitanya Garware,F (Left Third)
+S-511,Prof. Nilesh Kullal,G (Left Second)
+S-511,Prof. Smita Gumaste,H (Left First)
+S-513,Prof. Manisha Galphade,A (Right First)
+S-513,Dr. Mayura Shelke,B (Right Second)
+S-513,Prof. Amol Jagannath Dande,C (Right Third)
+S-513,Prof. Amit Uttarkar,D (Right Forth)
+S-513,Prof. Abhishek M. Dhore,E (Left Forth)
+S-513,Store Room: Exam Stationary & Printers,F (Left Third)
+S-513,Prof. Anjum Patel,G (Left Second)
+S-513,Prof. Vishal Maloji Patil,H (Left First)
+S-602,Dr. Anant Kaulge,1
+S-602,Prof. Hemant Shinde,2
+S-602,Dr. Sagar Tambe,3
+S-602,Prof. Shrikant Dhage,4
+S-602,Prof. Vikas Katakdound,5
+S-602,Prof. Rohidas Sangore,6
+S-616,Prof. Hingoliwala Hyder Ali,A (Right First)
+S-616,Dr. Mansi Bhosale,B (Right Second)
+S-616,Dr. Uma Godase,C (Right Third)
+S-616,Dr. Nandkumar Kulkarni,D (Right Forth)
+S-616,Prof. Bhushan Bhokse,E (Left Forth)
+S-616,Dr. Amol Bhosale,F (Left Third)
+S-616,Dr. Sharan Christa,G (Left Second)
+S-616,Dr. P. D. Patil,H (Left First)
+N-409,Dr. Hari Kumar Palani,1
+N-409,Prof. Deepali Lokare,2
+N-409,Dr. Amreen Khan,3
+N-409,Prof. Hanumant Aba Pawar,4
+N-409,Dr. Nilima Ramteke,5
+N-409,Prof. Shweta Yadav,6
+N-409,Prof. Anuja Gaikwad,7
+N-410,Prof. Tushar Mote,1
+N-410,Prof. Vijaya Samadhan Patil,2
+N-410,Dr. Nitish Das,3
+N-410,Dr. Suvarna Pawar,4
+N-410,Prof. Tanuja Zende,5
+N-410,Prof. Shraddha Kashid,6
+N-410,Dr. Neha Gupta,7
+N-502,Dr. Rashmi S Nair,1
+N-502,Prof. Rashmi Tundalwar,2
+N-502,Dr. Anuja Jadhav,3
+N-502,Prof. Anuja Chincholikar,4
+N-504,Prof. Suruchi Deshmukh,1
+N-504,Dr. Umang Garga,2
+N-504,Dr. Jagannath Nalavade,3
+N-504,Prof. Dattatray Kale,4
+N-504,Prof. Sumit Hirave,5
+N-504,Dr. Rajendra Pawar,6
+N-504,Prof. Sonali Arvind Deshpande,7
+N-504,Dr. Suvarna Joshi,8
+N-504,Prof. Himanshi Agrawal,Cubical 1 (S-901)
+N-504,Prof. Chhaya Mhaske,Cubical 2  (S-901)
+N-504,Prof. Shahin Makubhai,Cubical 3 (S901)
+N-504,Prof. Shruti Tilwant,Cubical 4 (S901)
+S-901,Prof. Prashik Rawale,Cubical 5 (S901)
+S-901,Prof. Khushal Kunjir,Cubical 6 (S901)
+S-901,Prof. Manisha Shitole,Cubical 7 (S901)
+S-901,Prof. Aditi Wangikar,Cubical 8 (S901)
+S-901,Prof. Sushant Shirbhate,Cubical 9 (S901)
+S-901,Prof. Pratiksha Malvathkar,Cubical 10 (S901)
+S-901,Prof.Shubhangi Divekar,Cubical 11 (S901)
+S-901,Prof. Gayatri Jagande,Cubical 12 (S901)
+S-901,Prof. Arsalan Khan (Visiting),Cubical 13 (S901)
+S-901,Prof. Tushar Mane,Cubical 14 (S901)
+S-901,Prof. Pooja Pawale,Cubical 15 (S901)
+S-901,Prof. Renuka Arbat,Cubical 16(S901)
+S-901,Prof. Namrata Naikwade,Cubical 17(S901)
+S-901,Prof. Abhishek Das,Cubical 18 (S901)
+S-901,Prof. Arun Ghandat,Cubical 19 (S901)
+S-901,Prof. Manoj Shinde,Cubical 20 (S901)
+S-901,Prof. Sneha Deshmukh,Cubical 21 (S901)
+S-901,Prof. Pratiksha Dhande,Cubical 22 (S901)
+S-901,Prof. Supriya Jadhav,Cubical 23 (S901)
+S-901,Dr. Ayushi Godiya,Cubical 24 (S901)
+S-901,Prof. Sneha Singha,Cubical 25 (S901)
+S-901,Prof. Ruchita Sharma,Cubical 26(S901)
+S-901,Prof. Komal Munde,Cubical 27(S901)
+S-901,Prof. Nisha Chobe,Cubical 28(S901)
+S-901,Miss. Siddhi Gurav,Cubical 29(S901)
+S-901,Prof. BhauSaheb Salave,Cubical 30(S901)
+S-901,EMPTY,Cubical 31S901)
+S-901,EMPTY,Cubical 32(S901)
+S-901,Prof. Swapnil Chaudhari,A (Left-First)
+S-901,Prof. Amol Chincholkar ,B (Left- Second)
+S-901,Dr. Chandrashekhar Karamgaonkar,C- (Left-Third)
+S-901,Prof. Vikas More,D (Left-Fourth)
+S-901,Prof. Sachin Tiwari,E- (Left-Fifth)
+S-901,Prof. Rupesh Hushangabade ,F (Left-Sixth)
+S-901,Prof. Rajesh Halke,G (Left-Seventh)
+S-901,Prof. Swati Power,H (Right-Seventh)
+S-901,EMPTY',I (Right-Sixth)
+S-901,Prof. Shilpa Dhopte,J (Right-Fifth)
+S-901,Prof. Nitin Alzende,K (Right-Fourth)
+S-901,Prof. Deepak Naik,L (Right-Third)
+S-901,Dr. Aman Singh,M (Right-Second)
+S-901,Dr. Pallavi Asthana,N- (Right-First)
+IT work shop,Dr. Pranav Chipalkatti,IT workshop
+IT work shop,Prof. Raju Gurav,IT workshop
